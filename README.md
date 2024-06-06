@@ -1,6 +1,6 @@
 # soc-lab
 SOC Threat Emulation and Detection Lab Repository! In this repository, I’ll guide you through cyber security operations, focusing on threat emulation and detection using the MITRE ATT&amp;CK Matrix. You’ll gain hands-on experience and practical insights into how SOC (Security Operations Center) analysts detect and respond to threats.
-
+![Poster](./misc/img-1.png)
 The lab environment includes an OPNSense firewall, Windows Active Directory, Windows Host, an Adversary Kali Linux machine, and a Splunk instance for log collection and analysis. I’ll use Atomic Red Team for threat emulation, which allows replication of various attack techniques.
 I’ll focus on 12 tactics and their corresponding techniques from the MITRE ATT&CK Matrix, each representing a different phase of an adversary’s attack life-cycle. By the end of this series, you will have a comprehensive understanding of these tactics and the ability to detect and respond to them using Splunk and Sysmon, or why not try a choice of your SIEM and EDR solution?
 
@@ -45,7 +45,7 @@ The SOC lab we’ll use is designed to be as simple as possible while still cove
 
 To create your lab, follow the topology and the steps below:
 
-![Lab Topology](path/to/your/image1.png)
+![Lab Topology](./misc/Topology.jpg)
 
 1. Install the necessary machines and services, as well as Splunk Forwarders. (No extra configurations)
 2. Configure network interfaces with appropriate addresses. Enable services like DHCP if needed. (No extra configurations)
@@ -73,12 +73,11 @@ Logs are critical for monitoring and detecting suspicious activities within your
 
 The MITRE ATT&CK is a comprehensive framework that categorises the various tactics and techniques used by adversaries during cyber attacks. Understanding this framework is essential for identifying and mitigating threats. You can explore the full matrix and detailed descriptions of each tactic and technique on the official MITRE ATT&CK website.
 
-![MITRE ATT&CK](path/to/your/image2.png)
+![MITRE ATT&CK](./misc/MITREATT&CK.jpg)
 
 [MITRE ATT&CK Website](https://attack.mitre.org/)
 
 ## Next Steps
 
-Now that we’ve covered the basics of our SOC lab topology, tools, and the MITRE ATT&CK framework, it’s time to dive into our first exercise. In the next post, titled “SOC-LAB Series TA0002 Execution”, we will emulate our first technique and try to detect it. Stay tuned!
+Now that we’ve covered the basics of our SOC lab topology, tools, and the MITRE ATT&CK framework, it's time to dive into our first exercise. Head over to MITRE_Emulation_Detection to get started. We will emulate our first technique and try to detect it "TA0002 Execution". Stay tuned!
 
-![Next Steps](path/to/your/image3.png)
