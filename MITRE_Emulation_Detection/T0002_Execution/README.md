@@ -1,1 +1,1 @@
-Content coming soon ! Stay tuned 
+Content coming soon! Stay tuned.
