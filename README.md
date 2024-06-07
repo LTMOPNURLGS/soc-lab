@@ -79,5 +79,5 @@ The MITRE ATT&CK is a comprehensive framework that categorises the various tacti
 
 ## Next Steps
 
-Now that we’ve covered the basics of our SOC lab topology, tools, and the MITRE ATT&CK framework, it's time to dive into our first exercise. Head over to MITRE_Emulation_Detection to get started. We will emulate our first techniques within "TA0002 Execution" and try to detect them. Stay tuned!
+Now that we’ve covered the basics of our SOC lab topology, tools, and the MITRE ATT&CK framework, it's time to dive into our first exercise. Head over to MITRE_Emulation_Detection to get started. We will emulate our first techniques within "TA0002 Execution" and try to detect them. Stay tuned
 
