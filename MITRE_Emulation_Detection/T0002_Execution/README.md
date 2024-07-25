@@ -12,9 +12,9 @@ In this lab, we won’t cover all the techniques in the Execution Phase. However
 The MITRE Cyber Analytics Repository (CAR) is an invaluable resource for detecting adversarial techniques. It provides analytics and detection strategies for various tactics and techniques. We will use the suggestions for detection with Splunk, leveraging analytics from MITRE and CAR. For detailed information, visit the [MITRE CAR page](https://car.mitre.org/).
 
 Now, it is time for our first technique from TA0002.
-T1059: Command and Scripting Interpreter
+### T1059: Command and Scripting Interpreter
 Adversaries may abuse command and script interpreters to execute commands, scripts, or binaries. For more details, visit the MITRE ATT&CK page for T1059.
-
+![Poster](./misc/T1059.001DESCRIPTION.jpg)
 
 https://attack.mitre.org/techniques/T1059/
 T1059 consists of 10 sub-techniques, each representing different methods of abusing command and script interpreters:
