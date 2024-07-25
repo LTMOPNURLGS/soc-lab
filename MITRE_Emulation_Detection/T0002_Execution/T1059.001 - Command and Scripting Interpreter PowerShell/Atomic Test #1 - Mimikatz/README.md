@@ -7,6 +7,7 @@ MITRE provides detection analytics for identifying malicious PowerShell activiti
 ![Poster](./misc/Detection.jpg)
 Now, let’s put theory into practice by engaging TA0002 with some practical emulation using Atomic Red Team.
 ## T1059.001 Atomic Test 1 — Mimikatz
-![Poster](./misc/Mimikatzexecution.jpg)
+![Poster]![GITHUB](https://github.com/user-attachments/assets/5c10ffc4-238f-4cbc-b2a7-f657ea7fca44)
+
 Running the command Invoke-AtomicTest T1059.001 1 on your Windows machine will start the test which will simulate Downloading Mimikatz and dumping credentials.
 ![Poster](./misc/Mimikatz execution.jpg) 
