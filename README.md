@@ -1,6 +1,6 @@
 # soc-lab
 SOC Threat Emulation and Detection Lab Repository! In this repository, I’ll guide you through cyber security operations, focusing on threat emulation and detection using the MITRE ATT&amp;CK Matrix. You’ll gain hands-on experience and practical insights into how SOC (Security Operations Center) analysts detect and respond to threats.
-![Poster](./misc/img-1.png)
+![Poster](./misc/img-1.jpg)
 The lab environment includes an OPNSense firewall, Windows Active Directory, Windows Host, an Adversary Kali Linux machine, and a Splunk instance for log collection and analysis. I’ll use Atomic Red Team for threat emulation, which allows replication of various attack techniques.
 I’ll focus on 12 tactics and their corresponding techniques from the MITRE ATT&CK Matrix, each representing a different phase of an adversary’s attack life-cycle. By the end of this series, you will have a comprehensive understanding of these tactics and the ability to detect and respond to them using Splunk and Sysmon, or why not try a choice of your SIEM and EDR solution?
 
