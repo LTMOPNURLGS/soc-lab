@@ -1,3 +1,5 @@
+![img-1](https://github.com/user-attachments/assets/718cce4b-25a9-4f3f-a04d-3e79194ab8ea)
+
 T1547.010 Boot or Logon Autostart Execution: Port Monitors
 Adversaries can achieve persistence or elevate privileges by configuring port monitors to run a malicious DLL during system boot. This can be done using the AddMonitor API call to set the DLL, which will be executed by the print spooler service (spoolsv.exe) with SYSTEM level permissions at startup.
 
